@@ -1,0 +1,5 @@
+node_modules/
+.travis/assets/
+.travis/assets.zip
+.build/
+src/secret
